@@ -1,2 +1,3 @@
-# notes
-My golang related notes.
+# 个人笔记.
+
+学习-记录-分享
