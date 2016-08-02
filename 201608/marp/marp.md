@@ -17,7 +17,7 @@ Marp
 - Cross-platform. Supports Windows, Mac, and Linux
 - Live Preview with 3 modes
 - Slide themes (`default`, `gaia`)
-- Supports emoji :heart:
+- Supports emoji :heart: :smile:, see [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - Export your slides to PDF
 
 ---
