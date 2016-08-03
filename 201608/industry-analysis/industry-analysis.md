@@ -26,6 +26,10 @@ Notes of Industry Analysis
 ---
 # ==1.== Introduction
 
+#### 1.1 Industry defintion
+#### 1.2 Industry Analysis
+#### 1.3 Industry Analysis Process
+
 ---
 ## ==1.1== Industry Definition
 
@@ -35,6 +39,7 @@ Notes of Industry Analysis
 - Traditional definition
   >  A group of companies or firms competing in a specific geographic region.
 
+:arrow_down: 
 
 - Current definition
   >  ==**A group of suppliers with a similar set of product and process technologies that fill some applied need of a definable group of customers.**==
@@ -127,9 +132,9 @@ Notes of Industry Analysis
 - Characteristics associated with industry maturity.
 - Stategic challenges.
 <br>
-<br>
 
-Demand :right: Growth :: Industry Maturity :: Strategic Challenges
+==Demand :arrow_right: Growth :arrow_right: Industry Maturity :arrow_right: Strategic Challenges==
 
 ---
-# ==1.== The Five Force Model
+# ==2.== The Five Force Model
+
