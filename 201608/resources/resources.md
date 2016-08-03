@@ -1,5 +1,4 @@
 <!-- $theme: gaia -->
-<!-- template: gaia -->
 
 Industry Analysis Resources
 ===
@@ -10,8 +9,13 @@ Industry Analysis Resources
 
 
 ---
-<!-- *template: invert -->
+<!-- template: invert -->
 # Slides
 
 - [Speakerdeck](https://speakerdeck.com)
 - [Slideshare](http://www.slideshare.net/)
+
+---
+# Online books
+
+- [Free Management Books](http://www.free-management-ebooks.com/)
