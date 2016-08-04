@@ -18,4 +18,4 @@ Industry Analysis Resources
 ---
 # Online books
 
-- [Free Management Books](http://www.free-management-ebooks.com/)
+- [Free Management eBooks](http://www.free-management-ebooks.com/)

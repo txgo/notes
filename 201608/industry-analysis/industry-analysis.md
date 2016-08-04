@@ -138,3 +138,147 @@ Notes of Industry Analysis
 ---
 # ==2.== The Five Force Model
 
+---
+## ![](./images/Porter-5-forces-model-simple.jpg)
+
+---
+## Five economic forces
+
+1.	Bargaining power of industry customers.
+2.	Bargaining power of suppliers to the industry.
+3.	Threat of new competitors entering the industry.
+4.	Threat of substitute products from another industry.
+5.	Rivalry among existing forms.
+6.	\*Government policy.
+
+---
+## Using the Five Force Model in Industry Analysis
+
+- Understanding profitablity
+-  Power lead to profits
+-  Powerless , un profitable industry, example: commercial real estate in the U.S. and Japanin the late 1980s.
+-  Powerful, profitable industry, example: ethical pharmaceuticals.
+-  Instablity at extrems
+-  Guide to relative power
+-  Predicting impact of changes
+
+---
+## ![](./images/porters_five_forces.png)
+
+
+---
+# ==3.== Barginining Power - <br>Customers and Suplliers
+
+---
+## Price Trend reflect bargining power
+
+- Price rise faster than the cost of input: strong bargining power
+- Otherwise, weak bargining power
+- Relative price change are the result, not the cause
+- Bargining power is determined by:
+  * industry structure
+  * conditions of supply
+  * condtiions of demand
+  * a product's value to customers
+  * ……
+
+---
+## Factors that Determine Bargining Power
+
+- Five Primary Factors :heart: Three Secondary Factors
+  * ==Strategic role of product or service==
+  * ==Number of suppliers / customers==
+  * ==Switching cost==
+  * ==Availablty of substitues==
+  * ==Supply / demand balance==
+  * *Customer profitablity*
+  * *Share of total cost*
+  * *Threat of vertical integration*
+
+---
+## 3.1 Strategic Role of Product or Service
+
+#### Nedd for Product
+- Why a buyer need the product
+  * Product's value proposition: net benefits
+  * Buyer's strategy: real need
+
+#### Seller bargining power
+- Whether the product's benefits are critical to the buyer
+
+
+---
+## 3.2 Number of Suppliers / Customers
+
+- Few suppliers, many buers
+  * example: supermarkets in UK 
+- Many suppliers, few buyers
+  * exmample: unskilled labor
+- Single buyer / captive market
+
+
+---
+## 3.3 Switching Cost
+
+- Swtiching cost: developing, testing, or using an alternative product, including change the capital equipment.
+- Many studies have found that switching cost can offset price differences of 20% or more.
+- *underestimated* by suppliers and *overestimated* by buyers.
+- Buyer's risk
+- High switching cost or risks give the seller relatively more leverage.
+- When switching costs and/or risks are low, the product has become a comondity. Then the primary basis of competition is price.
+
+---
+## 3.4 Availability of Substitues
+
+- In most cases, the cost of substituting a differenct product is much higher than the cost of swtiching suppliers of the same product.
+- When cost-effective substitues are widely available, it tend to increase buyer power.
+- The lack of substitues, or substitues are relatively expensive, tends to strengthen the powe of sellers.
+
+---
+## 3.5 Supply / Demand Balance
+
+- Demand > Supply: strengthen seller power, otherwise, strengthen buyer power.
+- Applicable situations
+  * No monopoly producers / monopsony buyers
+  * Capctity must be difficult for seller to manage flexibly.
+  * The product must be a commondity or near commondity with very low switching costs.
+  * Few substites exists for the product or there are very high direct substitution or switching costs.
+
+---
+## 3.6 Customer profitablity
+
+- When customers incomes are rising and secure, customers tend to focus on investment and expansion stategies. Customers are less likely to search fro bargins. Conversely, customers look for ways to economize, and seller lse their power.
+
+---
+## 3.7 Share of Total Cost
+
+- Seller's bargining power: \< 1%
+- Buyer's  power: \> 10%
+
+---
+## 3.8 Threat of Vertical Integration
+
+- Forward integration: buys or invests in a customer industry
+- Backword integration: buys or invests in a supplier industry
+- The impact is like substituion 
+
+---
+## Bargining Power Checklist(1/2)
+
+|Seller Power|Factor|Buyer Power|
+|:-:|:-:|:-:|
+|Critical for cost,<br>quality, or ability to implement strategy|Strategic role of product or service|Unrelated to customer strategy|
+|Many customers /few suppliers |Number of Suppliers / Customers|Few Customers / many suppliers|
+|High cost of developing, testing, using;or high risk|Swtiching cost|Low cost / low risk|
+|Substitutes unavailable or very expensive|Availability of substitutes|Cost-effective substitues widely available|
+
+---
+## Bargining Power Checklist(2/2)
+
+|Seller Power|Factor|Buyer Power|
+|:-:|:-:|:-:|
+|Demand exceeds supply|Supply / demand balance|Supply exceeds demand|
+|Low competitive, income rising and secure|Customer profitability|High competitive, income failing or insecure|
+|Small share: \<1%|Share of cost|Large share: \>10%|
+|Many suppliers are forward integrated;or low barriers to forward integration|Threat of vertical integration|Many customers are backward integrated;or low barriers to backward integration|
+
