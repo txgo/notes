@@ -180,7 +180,7 @@ Notes of Industry Analysis
   * conditions of supply
   * condtiions of demand
   * a product's value to customers
-  * ……
+  * â€¦â€¦
 
 ---
 ## Factors that Determine Bargining Power
@@ -194,6 +194,27 @@ Notes of Industry Analysis
   * *Customer profitablity*
   * *Share of total cost*
   * *Threat of vertical integration*
+ 
+---
+## Bargining Power Checklist(1/2)
+
+|Seller Power|Factor|Buyer Power|
+|:-:|:-:|:-:|
+|Critical for cost,<br>quality, or ability to implement strategy|Strategic role of product or service|Unrelated to customer strategy|
+|Many customers /few suppliers |Number of Suppliers / Customers|Few Customers / many suppliers|
+|High cost of developing, testing, using;or high risk|Swtiching cost|Low cost / low risk|
+|Substitutes unavailable or very expensive|Availability of substitutes|Cost-effective substitues widely available|
+
+---
+## Bargining Power Checklist(2/2)
+
+|Seller Power|Factor|Buyer Power|
+|:-:|:-:|:-:|
+|Demand exceeds supply|Supply / demand balance|Supply exceeds demand|
+|Low competitive, income rising and secure|Customer profitability|High competitive, income failing or insecure|
+|Small share: \<1%|Share of cost|Large share: \>10%|
+|Many suppliers are forward integrated;or low barriers to forward integration|Threat of vertical integration|Many customers are backward integrated;or low barriers to backward integration|
+ 
 
 ---
 ## 3.1 Strategic Role of Product or Service
@@ -263,22 +284,263 @@ Notes of Industry Analysis
 - The impact is like substituion 
 
 ---
-## Bargining Power Checklist(1/2)
-
-|Seller Power|Factor|Buyer Power|
-|:-:|:-:|:-:|
-|Critical for cost,<br>quality, or ability to implement strategy|Strategic role of product or service|Unrelated to customer strategy|
-|Many customers /few suppliers |Number of Suppliers / Customers|Few Customers / many suppliers|
-|High cost of developing, testing, using;or high risk|Swtiching cost|Low cost / low risk|
-|Substitutes unavailable or very expensive|Availability of substitutes|Cost-effective substitues widely available|
+## 4 Barriers to Entry
 
 ---
-## Bargining Power Checklist(2/2)
+## Factors that Determine Barriers to Entry
 
-|Seller Power|Factor|Buyer Power|
+- Economics of Scale
+- Proprietary technologies
+- Product differentiation
+- Cost disadvantages independent of size
+- Goverment policy
+- Access to distribution channels
+- Risk of retaliztion
+- Capital requirements
+
+---
+### Barries to Entry Checklist(1/2)
+
+|High|Factor|Low|
 |:-:|:-:|:-:|
-|Demand exceeds supply|Supply / demand balance|Supply exceeds demand|
-|Low competitive, income rising and secure|Customer profitability|High competitive, income failing or insecure|
-|Small share: \<1%|Share of cost|Large share: \>10%|
-|Many suppliers are forward integrated;or low barriers to forward integration|Threat of vertical integration|Many customers are backward integrated;or low barriers to backward integration|
+|High-capacity plant needed for ecomonicperation|Economies of Scale|Production ecomonies unrelated to size|
+|Unavailable to entrants|Proprietary technologies|Relevant technologies widely available|
+|Products tailored to individual customer needs|Prodcution differentiation|Commondity products|
+|Many(e.g. supply arrangements, labor costs, experience curves)|Cost disadvantages independent of size|Few|
 
+---
+### Barries to Entry Checklist(2/2)
+
+|High|Factor|Low|
+|:-:|:-:|:-:|
+|Closely controlled|Access to distribution channels|Open and competitive|
+|Constrained by policy or regulation|Government policy|Liberal trade and ecominic policies|
+|Market share leader attck new entrants; intense internal rivalry|Risk of retailation|Market share widely distributed or weak internal rivalry|
+|Very large (e.g. over $1 billion) or high relative to  total dusntry profits|Capital requriements|Small (under $1 million)|
+
+
+---
+## 4.1 Economics of scale
+
+- The per unit cost decrease dramatically as the company's size increase.
+- Example: semiconductor, primary steel production, electricity generation.
+- Non production functions: marketing, sales, distribution. Example: Wal-Mart, advertising on TV.
+- Economics of scale -> High barriers to entry!
+
+--- 
+## 4.2 Proprietary Technologies
+
+- Exclusive skills, knowledge, technology
+- Know What, Know How
+- The barriers to entry increase with the number and complexity of technologies and skills the comany must acquire and master in order to become a competitor.
+
+---
+## 4.3 Production Differentation
+
+- Industry with commodity products and low swtiching costs are the most open to new entries.
+- Example: fruits, grains, comsumer products.
+
+---
+## Costdisadvantages Independent of Size
+
+- Productivity, location, experience, wage rates
+- For example: fast foods need real estate.
+
+
+---
+## 4.5 Government Policy (1/2)
+
+- Restic competition: protect the market for demestic producers or minimizing competition as part of goverment employment policy
+- Examples: telecomunications, broadcasting, newspapers, defence, financial services, airlines, energy, and natural resources such as timber, mining, or fishing.
+- Encouraging competition: Encorage to enter new markts.
+- Examples: Deregulating industries and enforcing anti-trust statues.
+
+### Government Policy： Indirect techniques
+
+
+---
+### 4.5 Government Policy (2/2) ： Direct techniques
+
+  * Sponsorship of state-owned monopoly
+  * Establishment of unsual product or satety standards that must be met by new entrats to a market
+  * Licencing requirements that are difficult to satisfy and/or licences that are awarded infrequetly
+  * Requirements licences before that can do business.
+  * Polices that requrie official government approval prior to enteringa sensitive industry
+  * Foreign entrants securead domestric partner or part-owner
+  * Polices to transfer or relingquish Propritary technolgies to compel.
+
+---
+## 4.6 Access to Distribution Channels
+
+- Direct investment, throgh close allicances based on a long history of joint promotion and services.
+- In economies with stable distribution channels, obtaining distribution can be the most significant of all barriers to entry.
+- New distribution, barriers to entry may collpase.
+
+
+---
+## 4.7 Risk of Relaliation
+
+- High in competitive industries, when：
+  * Market share leaders have a favorable position to defend and resources to mount an attack
+  * Economics of scale diccate strategies to preserve / gain market share.
+- Price reduction, new product introduction, aggresive promotion, distributuion alliances.
+
+
+---
+## 4.8 Capital Requirements
+
+- High barries when absolute cost of entering a market is high, for example: $1 biliion.
+- Otherwise, low arries.
+
+
+---
+## 5. Substitution
+
+#### Use of a product from another industry to satisfy needs.
+
+---
+## Risks / Benefits of Substitution
+
+- Opportunity: Primary process to create a new industry. 
+- Risk: same customer needs, better price performance ratio.
+- Complex analysis: in-depth technical and market understanding.
+- The economics of investment in innovation, relative rates of technological progress, long-term cost stuctures.
+
+
+---
+## Substitution Analysis Checklist(1/2)
+
+|Strong Threat|Factor|Weak Threat|
+|:-:|:-:|:-:|
+|One or more known substitues can fulfill customer's strategic needs|Substituion available|No known substitue meet customer's requirements|
+|Active and exprensive search for substitues(customer cost pressure or dedesire for new benefits|Demand for substitution|No cost pressure on customers and no significant investment in related technology|
+|outperfoms|current performance|not outperforms|
+
+---
+## Substitution Analysis Checklist(1/2)
+
+|Strong Threat|Factor|Weak Threat|
+|:-:|:-:|:-:|
+|improving|performance trends|declining|
+|favor|performance limit|not favor|
+|less|current price|more|
+|relative less|price trend|relative more|
+|favor|price limit|not favor|
+
+
+---
+## 5.1 Availabity of Substitution
+
+- If one or more known products exits can fulfil the same strategic needs as the industry's product.
+- If no, then the current risk from substitution is low.
+
+---
+## 5.2 Demand for Substitution
+
+- Customer applications undelie demand
+- Is there evidence that they are unhappy with current prices?
+- Product complements
+- Ongoing risk
+
+---
+## 5.3 Relative Rates of Technological Progress
+
+- Current performance of the substitute
+  * Does the substitute or potential substitutes outperform the industry product on some dimensions?
+- Substitue Performance Trends
+  * If the substitue's performance improving faster than the industry's product?
+- Limits to Change in Substitue Performance
+  * The potential for improvements in the substitues's fundamental technologies.
+
+---
+## 5.4 Cost Structure
+
+- Current Price of Substitutes
+  * Whether the substitute is less expensive
+  * Whether is the switching cost is low
+- Trend in Substitute Price
+  *  Is the substitute becoming less expensive over time?
+  *  Is affected by comodity price volatility? Bebefit from scale economics? Are the price changes a response to shifts in demand, or are they purely tactical?
+- Limits to Change in Substitute Price
+  
+---
+# 6. Rivalry
+
+---
+#### Rivalry Checklist(1/2)
+
+|Strong Rivalry|Factor|Weak Rivalry|
+|:-:|:-:|:-:|
+|Many competitors without a dominant market share leader|Industry concentration|Market share is highly concertrated among 3 or 4 competitors|
+|Undifferentiated commondities|Product differenctiation|Unique offerings by each competitor|
+|Asset intensive, with high fixed costs and low variable costs|Required fixed cost and investment|Low asset intensity and fixed costs|
+|Minimum  |Ratio of scale investment to market size|Capacity can be closely matched to changes in demand|
+
+---
+#### Rivalry Checklist(2/2)
+
+|Strong Rivalry|Factor|Weak Rivalry|
+|:-:|:-:|:-:|
+|Liberal international trade and active anti-trust enforcement|Government Policy|Trade barriers and weak anti-trust enforcement|
+|Dedicated assets, process, and technologies; many legal, regulatory, labor, and other liabilities |Industry exit barriers|Few|
+|Opportunites to create dominant positions in high growth or high profit industries|Strategic stakes|Slow demand and growth|
+|Different|Diversity of firms|Similar|
+
+---
+## 6.1 Industry Concertration
+
+- Inverse relationship
+- higly concentrated market: CR4 or CR3 > 75%，80%）
+- “Signaling"
+
+---
+## 6.2 Production differentiation
+
+- Similary increase rivalry
+
+
+---
+## Required Fixed Cost and Investment
+
+- Operating Leverage
+- Paper marking, oil refining, alumnum smelting, textiles and bulk chemicals.
+- Software developers, discount retailers, telecommunications carriers, airlines
+- Price cutting.
+
+---
+## Ratio of Scale Investment to Market Size
+
+- Ecominics of scale may increase rivalry
+- >3-4%
+
+---
+## Government Policy
+
+- Anti-trust or deregulation
+
+
+---
+## Industry Exit Barriers
+
+- Dedicated assets, technologies and processes
+- Cost of an environment cleanup or laying off workers
+- Exit barriers increase rivalry
+
+---
+## Strategic Stakes
+
+- Market leadership: winner-take-all
+- e.g. Mircosoft and OS
+- High stakes increase rivalry
+- High technology products, oil, gas, spectrum.
+
+---
+## Diversity of Firms
+
+- Similarity decrease rivalry
+
+#### Rivalry and Other Structural Forces
+- Strong rivalries tend to exit when other structural forces weaken an industry. 
+- When demand falls below supply, increase rivalry
+- When switching cost is low, rivalry high.
+- ......
