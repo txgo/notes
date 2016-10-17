@@ -544,3 +544,67 @@ Notes of Industry Analysis
 - When demand falls below supply, increase rivalry
 - When switching cost is low, rivalry high.
 - ......
+
+---
+## 7. The Industry Life Cycle
+
+---
+## Product life cycle
+
+- New product has predictable life
+- New = Substitute
+- Standard pattern: 
+  * Introduction :arrow_right: Roll out :arrow_right: Market penetration :arrow_right: Market staturation :arrow_right: Obscolescence and replacement.
+- variations to pattern
+
+---
+## Industry Cycle
+
+- Emerging :arrow_right: Growth :arrow_right: Mature :arrow_right: Aging
+- Growth rate and knowledge about potential demand
+- Number of competitors, products, and product lines
+- Stability of purchasing patterns
+- Technologies investment strategies
+- Barriers to entering the industry
+
+---
+## Emerging Industries
+
+- Growth / demand. increasing, but no industry-wide measurement of demand, and no common standard for quantifying industry growth rate.
+- Competition / makret share. Hard to assess sales potential. Few competitors, but increase. 
+- Purchasing / product lines. Narrow, tailored.
+- Barriers / technology. Low, if the cost os acquiring key technologies and knowledge is also low.
+- Examle: digital cash, electronic commerce.
+
+---
+## Growth Industries
+
+- Growth / demand. Grows more rapidly than GDP, often 20%+ for everyone. Demand exceeds current supply, but its potential limits are unknown.
+- Purchasing / product lines. Repeat purchases, price sensitivity. Product brand strategies become important. Product lines increase.
+- Competition / market share. The number of competitors is unstable. The ranking may change.
+- Barriers / technology. Barriers to entry grow. Basic processes and technologies are increasingly standardeized. Technology investments are directed at new products and  enhancement.
+- Example: Health Information System.
+
+---
+## Mature Industries
+
+- Growth / Demand.  Grow rates are similar to the overall GDP. The limits of demand are well known, and market approach sataration.
+- Competition / market share. Stable and delcines slowly. Market share ranking are highly stable, and competition is a race to find defensible nicles.
+- Purchasing / product lines. Purchasing patterns are welle established for well-known suppliers. Product lines shows little net change.
+- Barriers / technology. Technology investments aim for process refinement and efficiency. 
+- Example: Automobiles in G-7.
+
+---
+## Aging Industries
+
+- Growth / demand. Negative or significantly slower than GDP. Supply exceeds long-term demand.
+- Competition / makret share / barriers. The number of competitors falls. Industry becomes regionalized. More concentraed. 
+- Product lines / technlogy. Standardized. There is little investment in promotion. New investment is usually aimed at reducing costs.
+- Exaple. Computer. 
+
+---
+#### Industry Maturity Matrix
+|Dimension|Emergency|Growth|Mature|Aging|
+|:-:|:-:|:-:|:-:|:-:|
+|Growth rate|Accelerating|20%+|Close to GDP|\<GDP|
+
